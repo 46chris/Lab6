@@ -1,6 +1,6 @@
 // script.js
 
-window.logCheckpoints =  // set to true/false to add/remove checkpoint logs to clear room for your own debugging
+window.logCheckpoints =  true; // set to true/false to add/remove checkpoint logs to clear room for your own debugging
 
 
 // script.js
